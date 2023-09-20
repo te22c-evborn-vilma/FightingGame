@@ -41,7 +41,7 @@ Console.WriteLine("\nThe fight is over");
 
 if (hp1 == 0 && hp2 == 0)
 {
-  Console.WriteLine("tied");
+  Console.WriteLine("The fight was tied");
 }
 else if (hp1 == 0)
 {
